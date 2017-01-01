@@ -1,0 +1,7 @@
+.settings/
+javadoc/
+*.class
+*.jar
+.classpath
+.project
+MANIFEST
